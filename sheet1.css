@@ -1,0 +1,11 @@
+.container{ 
+    font-size: x-large;
+    place-items: center;
+    display: grid; 
+    margin: 80px;
+}
+
+.input-box{
+    
+}
+
